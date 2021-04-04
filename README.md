@@ -24,7 +24,7 @@ Use the package manager [pip3](https://pip.pypa.io/en/stable/) to install the Dj
 
 Clone the repository into your working directory
 ```bash
-(venv) $ git clone <repository url>
+(venv) $ git clone https://github.com/danieloselu3/is-it-newyear.git
 ```
 
 cd into the is-it-newyear directory
